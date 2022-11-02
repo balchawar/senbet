@@ -4,7 +4,7 @@ const Abalat = () => {
     return (
         /**abalat page */
         <div>
-            <h1>እባላት ገጽ</h1>
+            <h1>እባላት ገጽ!</h1>
         </div>
     )
 }
