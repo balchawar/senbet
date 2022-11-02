@@ -15,8 +15,11 @@ const Sidebar = () => {
         }
     ]
     return (
-        <div>
-            <h1>sidebar page</h1>
+        <div className='w-100'>
+            <typography>
+                sidebar page
+            </typography>
+           
         </div>
         
     )
