@@ -1,0 +1,9 @@
+»Bank update not working due to fields are not populated
+»merchant Update action on  list should be added {on bank login}
+» service Update not working {on merchant login}
+» service delete not working {on merchant login}
+» on internation inovice created it redirect to local inovice list
+» bulk import server error
+»enable and disable should remove on service list
+»
+»
