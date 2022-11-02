@@ -1,8 +1,9 @@
 import React from 'react'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import Sidebar from './components/Sidebar'
+import Sidebar from './components/Navbar/Sidebar'
 import Abalat from './pages/Abalat'
 import Dashboard from './pages/Dashboard'
+import Navbar from './components/Navbar/navbar'
 
 const App = () => {
   return (
